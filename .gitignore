@@ -1,0 +1,6 @@
+# Ignore macOS system files
+.DS_Store
+data/.DS_Store
+
+# Ignore all files inside the data folder
+data/
